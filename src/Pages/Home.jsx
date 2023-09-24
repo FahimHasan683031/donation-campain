@@ -1,8 +1,10 @@
+import Donations from "../Components/Donats";
+
 
 const Home = () => {
     return (
         <div>
-            This is Home page
+            <Donations></Donations>
         </div>
     );
 };
