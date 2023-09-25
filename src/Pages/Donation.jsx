@@ -6,6 +6,11 @@ import SelectedDonationCard from "../Components/SelectedDonationCard";
 const Donation = () => {
     const [selectDonation, setSelectDonation] = useState([])
     const [showDonation, setShowDonation] = useState(4)
+    const [isbtnhidden, setisbtnhidden] = useState(false)
+    const btnHandle = () => {
+        setShowDonation(selectDonation?.length)
+        setisbtnhidden(true)
+    }
 
     const donations = useGetDonation()
     useEffect(() => {
@@ -18,16 +23,19 @@ const Donation = () => {
         <div className="my-7 ">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-7 ">
                 {
-                    selectDonation?.slice(0,showDonation).map((donation, inId) => <SelectedDonationCard key={inId} donation={donation}></SelectedDonationCard>)
+                    selectDonation?.slice(0, showDonation).map((donation, inId) => <SelectedDonationCard key={inId} donation={donation}></SelectedDonationCard>)
 
                 }
             </div>
+           
+                {
+                    selectDonation?.length > 4 && <div className={`text-center ${isbtnhidden &&'hidden'}`}>
+                        <button onClick={() => btnHandle()} className=" px-4 py-1 rounded-md my-5 text-lg font-medium text-white bg-green-700">See All</button>
+                    </div>
+                }
+            
 
-            {
-                selectDonation?.length > 4 && <div className="text-center">
-                    <button onClick={()=>setShowDonation(selectDonation?.length)} className=" px-4 py-1 rounded-md my-5 text-lg font-medium text-white bg-green-700">See All</button>
-                </div>
-            }
+
 
 
         </div>
