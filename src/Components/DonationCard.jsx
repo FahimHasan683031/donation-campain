@@ -9,7 +9,7 @@ const DonationCard = ({ donation }) => {
                 <div className={`relative mb-5 flex max-w-[24rem] flex-col rounded-lg  text-gray-700 shadow-md ${card_bg}`}>
                     <div className="relative m-0 rounded-t-lg  overflow-hidden rounded-none bg-transparent  text-gray-700 shadow-none">
                         <img
-                            className="h-[230px] w-[380px]"
+                            className=" h-[220px]  md:h-[200px] lg:h-[180px] w-[390px] md:w-[350px] lg:w-[290px]"
                             src={image}
                             alt="ui/ux review check"
                         />

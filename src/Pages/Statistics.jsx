@@ -2,6 +2,7 @@ import PiChart from "../Components/Pichart";
 
 const Statistics = () => {
     return (
+        <div className="max-w-screen-xl mx-auto px-7">
         <div className="text-center">
             <div className="flex justify-center">
                 <PiChart></PiChart>
@@ -16,6 +17,7 @@ const Statistics = () => {
                     <span className="w-12 md:w-20  h-[6px] md:h-[9px] rounded-sm bg-[#ff444a]"></span>
                 </div>
             </div>
+        </div>
         </div>
     );
 };

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Error = () => {
     return (
-        <div>
+        <div className="max-w-screen-xl mx-auto px-7">
             <section>
 
                 <div className="bg-black text-white">
