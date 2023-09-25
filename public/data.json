@@ -4,132 +4,144 @@
       "category": "Healthcare",
       "title": "Medical Supplies",
       "price": 50,
-      "description": "Support the provision of vital medical supplies to hospitals and clinics in need. Your contribution will help ensure that healthcare facilities have the necessary equipment and resources to save lives. Join us in making a difference in healthcare access and improving the health outcomes of those who need it most.",
+      "description": "Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them from preventable diseases. Join us in safeguarding public health and promoting community well-being. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://media.istockphoto.com/id/522549410/photo/medical-equipment-background.jpg?s=612x612&w=0&k=20&c=TgXoa_Psm2nBKLSvb31Wbp9tn0fAOvIpoDwHe2Wb5Ms=",
       "title_color": "text-blue-700",
       "card_bg": "bg-blue-200",
-      "button_bg": "bg-blue-300"
+      "button_bg": "bg-blue-300",
+      "donation_page_button_bg": "bg-blue-700"
     },
     {
       "id": 2,
       "category": "Healthcare",
       "title": "Vaccination Drive",
       "price": 30,
-      "description": "Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them from preventable diseases. Join us in safeguarding public health and promoting community well-being.",
+      "description": "Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them from preventable diseases. Join us in safeguarding public health and promoting community well-being. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EAD2/production/_114241106_vaccineillus976_rtrs.jpg",
       "title_color": "text-blue-700",
       "card_bg": "bg-blue-200",
-      "button_bg": "bg-blue-300"
+      "button_bg": "bg-blue-300",
+      "donation_page_button_bg": "bg-blue-700"
     },
     {
       "id": 3,
       "category": "Healthcare",
       "title": "Maternal Health",
       "price": 40,
-      "description": "Contribute to the improvement of maternal health services, providing better care for expectant mothers and newborns. Your support will ensure safe pregnancies and deliveries, reducing maternal and infant mortality rates. Join us in empowering mothers and ensuring a healthier future for families.",
+      "description": "Contribute to the improvement of maternal health services, providing better care for expectant mothers and newborns. Your support will ensure safe pregnancies and deliveries, reducing maternal and infant mortality rates. Join us in empowering mothers and ensuring a healthier future for families. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://www.unicef.org/sites/default/files/styles/press_release_feature/public/UN0155822_0.jpg?itok=fJEKWBXq",
       "title_color": "text-blue-700",
       "card_bg": "bg-blue-200",
-      "button_bg": "bg-blue-300"
+      "button_bg": "bg-blue-300",
+      "donation_page_button_bg": "bg-blue-700"
     },
     {
       "id": 4,
       "category": "Education",
       "title": "School Supplies",
       "price": 20,
-      "description": "Help provide essential school supplies to underprivileged students, giving them the tools they need for a brighter educational future. Your contribution supports access to quality education and empowers students to succeed academically. Join us in breaking down barriers to learning.",
+      "description": "Help provide essential school supplies to underprivileged students, giving them the tools they need for a brighter educational future. Your contribution supports access to quality education and empowers students to succeed academically. Join us in breaking down barriers to learning. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://static.vecteezy.com/system/resources/previews/002/420/746/non_2x/back-to-school-background-with-school-supplies-background-free-photo.jpg",
       "title_color": "text-rose-700",
       "card_bg": "bg-rose-200",
-      "button_bg": "bg-rose-300"
+      "button_bg": "bg-rose-300",
+      "donation_page_button_bg": "bg-rose-700"
     },
     {
       "id": 5,
       "category": "Education",
       "title": "Scholarships",
       "price": 75,
-      "description": "Support scholarships that enable deserving students to access quality education and pursue their dreams. Your donation provides opportunities for higher education and unlocks the potential of talented individuals. Join us in fostering the next generation of leaders.",
+      "description": "Support scholarships that enable deserving students to access quality education and pursue their dreams. Your donation provides opportunities for higher education and unlocks the potential of talented individuals. Join us in fostering the next generation of leaders. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://marvel-b1-cdn.bc0a.com/f00000000062824/38bc230840c9f50584b1-d888d963ac10c75c13e82e39a8a7bfe5.ssl.cf1.rackcdn.com/images/HelpPay_for_College_1460x822.jpg",
       "title_color": "text-rose-700",
       "card_bg": "bg-rose-200",
-      "button_bg": "bg-rose-300"
+      "button_bg": "bg-rose-300",
+      "donation_page_button_bg": "bg-rose-700"
     },
     {
       "id": 6,
       "category": "Education",
       "title": "Digital Learning",
       "price": 60,
-      "description": "Promote digital learning initiatives for students in remote areas, ensuring they have access to educational resources. Your support enables the use of technology to bridge educational gaps and provide equal opportunities for all. Join us in advancing education through innovation.",
+      "description": "Promote digital learning initiatives for students in remote areas, ensuring they have access to educational resources. Your support enables the use of technology to bridge educational gaps and provide equal opportunities for all. Join us in advancing education through innovation. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://www.narpanifoundation.org/wp-content/uploads/2020/10/donation_10-1024x656.jpg",
       "title_color": "text-rose-700",
       "card_bg": "bg-rose-200",
-      "button_bg": "bg-rose-300"
+      "button_bg": "bg-rose-300",
+      "donation_page_button_bg": "bg-rose-700"
     },
     {
       "id": 7,
       "category": "Environmental",
       "title": "Reforestation",
       "price": 25,
-      "description": "Contribute to reforestation efforts to combat climate change and preserve ecosystems. Your donation helps plant trees, restore forests, and protect biodiversity. Join us in creating a sustainable future for our planet.",
+      "description": "Contribute to reforestation efforts to combat climate change and preserve ecosystems. Your donation helps plant trees, restore forests, and protect biodiversity. Join us in creating a sustainable future for our planet. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://trees4trees.org/wp-content/uploads/2020/04/Carousel-1-edit-e1593423399777-1024x573.jpeg",
       "title_color": "text-lime-700",
       "card_bg": "bg-lime-200",
-      "button_bg": "bg-lime-300"
+      "button_bg": "bg-lime-300",
+      "donation_page_button_bg": "bg-lime-700"
     },
     {
       "id": 8,
       "category": "Environmental",
       "title": "Clean Energy",
       "price": 50,
-      "description": "Support the development and adoption of clean energy solutions to reduce carbon emissions and combat climate change. Your contribution helps transition to sustainable energy sources for a greener planet. Join us in the fight for a cleaner and healthier environment.",
+      "description": "Support the development and adoption of clean energy solutions to reduce carbon emissions and combat climate change. Your contribution helps transition to sustainable energy sources for a greener planet. Join us in the fight for a cleaner and healthier environment. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://images.squarespace-cdn.com/content/v1/5ff35be80400f408900d4cf9/1610108433100-2Z6N01ZIJ49KVSP5TD6F/about-westmill-solar-min.jpg",
       "title_color": "text-lime-700",
       "card_bg": "bg-lime-200",
-      "button_bg": "bg-lime-300"
+      "button_bg": "bg-lime-300",
+      "donation_page_button_bg": "bg-lime-700"
     },
     {
       "id": 9,
       "category": "Environmental",
       "title": "Wildlife Protection",
       "price": 35,
-      "description": "Help protect endangered species and their habitats from poaching and deforestation. Your support preserves biodiversity and ensures a future for wildlife. Join us in safeguarding our planet's most vulnerable creatures.",
+      "description": "Help protect endangered species and their habitats from poaching and deforestation. Your support preserves biodiversity and ensures a future for wildlife. Join us in safeguarding our planet's most vulnerable creatures. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://blog.ipleaders.in/wp-content/uploads/2020/05/703992-wildlife-sanctuary.jpg",
       "title_color": "text-lime-700",
       "card_bg": "bg-lime-200",
-      "button_bg": "bg-lime-300"
+      "button_bg": "bg-lime-300",
+      "donation_page_button_bg": "bg-lime-700"
     },
     {
       "id": 10,
       "category": "Food",
       "title": "Emergency Food Kits",
       "price": 30,
-      "description": "Provide emergency food kits to families facing hunger during crises. Your donation ensures that those in need have access to nutritious meals in times of hardship. Join us in the fight against hunger and food insecurity.",
+      "description": "Provide emergency food kits to families facing hunger during crises. Your donation ensures that those in need have access to nutritious meals in times of hardship. Join us in the fight against hunger and food insecurity. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://www.unicef.org/supply/sites/unicef.org.supply/files/styles/hero_tablet/public/UNI195733.jpg?itok=MeJGK7gf",
       "title_color": "text-pink-700",
       "card_bg": "bg-pink-200",
-      "button_bg": "bg-pink-300"
+      "button_bg": "bg-pink-300",
+      "donation_page_button_bg": "bg-pink-700"
     },
     {
       "id": 11,
       "category": "Food",
       "title": "Community Meals",
       "price": 15,
-      "description": "Support community kitchens that serve nutritious meals to those in need. Your contribution helps provide sustenance to vulnerable communities and strengthens social bonds. Join us in building a stronger, more resilient society.",
+      "description": "Support community kitchens that serve nutritious meals to those in need. Your contribution helps provide sustenance to vulnerable communities and strengthens social bonds. Join us in building a stronger, more resilient society. Support community kitchens that serve nutritious meals to those in need. Your contribution helps provide sustenance to vulnerable communities and strengthens social bonds. Join us in building a stronger, more resilient society",
       "image": "https://npr.brightspotcdn.com/dims4/default/06a3eb5/2147483647/strip/true/crop/3000x2000+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2F5b%2Fcc7cc0b042b7b54623e657545f78%2Fgettyimages-1286048476x.jpg",
       "title_color": "text-pink-700",
       "card_bg": "bg-pink-200",
-      "button_bg": "bg-pink-300"
+      "button_bg": "bg-pink-300",
+      "donation_page_button_bg": "bg-pink-700"
     },
     {
       "id": 12,
       "category": "Food",
       "title": "Hunger Relief",
       "price": 40,
-      "description": "Contribute to long-term hunger relief programs that address food insecurity. Your support helps tackle the root causes of hunger and ensures access to food for vulnerable populations. Join us in the fight against hunger and malnutrition.",
+      "description": "Contribute to long-term hunger relief programs that address food insecurity. Your support helps tackle the root causes of hunger and ensures access to food for vulnerable populations. Join us in the fight against hunger and malnutrition. Support a crucial vaccination drive to provide life-saving vaccines to communities in need. Your donation will help ensure that people have access to vaccinations, protecting them",
       "image": "https://www.peoplesfundraising.com/image/1019ec13-ff0b-4698-9c94-e1ee8e004723",
       "title_color": "text-pink-700",
       "card_bg": "bg-pink-200",
-      "button_bg": "bg-pink-300"
+      "button_bg": "bg-pink-300",
+      "donation_page_button_bg": "bg-pink-700"
     }
   ]
   

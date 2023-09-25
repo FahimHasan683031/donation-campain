@@ -20,7 +20,11 @@ export default {
     "bg-lime-300",
     "text-pink-700",
     "bg-pink-200",
-    "bg-pink-300"
+    "bg-pink-300",
+    "bg-blue-700",
+    "bg-rose-700",
+    "bg-lime-700",
+    "bg-pink-700"
   ],
 }
 
