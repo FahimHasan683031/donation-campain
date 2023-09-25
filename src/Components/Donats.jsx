@@ -1,5 +1,6 @@
 
 import DonationCard from "./DonationCard";
+import PropTypes from 'prop-types';
 
 const Donations = ({displayDonations}) => {
  
@@ -13,4 +14,7 @@ const Donations = ({displayDonations}) => {
     );
 };
 
+Donations.propTypes={
+    displayDonations:PropTypes.array
+}
 export default Donations;

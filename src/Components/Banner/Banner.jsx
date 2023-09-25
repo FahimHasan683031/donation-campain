@@ -1,4 +1,4 @@
-
+import PropTypes from 'prop-types';
 import './BannerCss.css'
 const Banner = ({setSearchValue}) => {
 
@@ -21,5 +21,9 @@ const Banner = ({setSearchValue}) => {
         </div>
     );
 };
+
+Banner.propTypes={
+    setSearchValue:PropTypes.func
+}
 
 export default Banner;

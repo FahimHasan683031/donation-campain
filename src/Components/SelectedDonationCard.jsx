@@ -1,4 +1,4 @@
-
+import PropTypes from 'prop-types';
 const SelectedDonationCard = ({ donation }) => {
     const {category,title,price,image,title_color,button_bg,donation_page_button_bg,card_bg} =donation || {}
     return (
@@ -21,5 +21,7 @@ const SelectedDonationCard = ({ donation }) => {
         </div>
     );
 };
-
+SelectedDonationCard.propTypes={
+    donation:PropTypes.object
+}
 export default SelectedDonationCard;
